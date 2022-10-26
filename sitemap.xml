@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mathiascimelli.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mathiascimelli.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://mathiascimelli.github.io/gh-pages/cimera-lab.html</loc>
+<lastmod>2022-10-26T14:45:35+02:00</lastmod>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/abstract-1278017_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/structure.png</image:loc>
+<image:title><![CDATA[minimum_structure]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/front.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/body.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/footer.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/benefits.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiascimelli.github.io/gh-pages/media\posts\1/website.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

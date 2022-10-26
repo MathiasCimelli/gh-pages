@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cimera Lab</title>
+    <link href="https://mathiascimelli.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://mathiascimelli.github.io/gh-pages" />
+    <updated>2022-10-26T14:45:35+02:00</updated>
+    <author>
+        <name>Mathias Cimelli</name>
+    </author>
+    <id>https://mathiascimelli.github.io/gh-pages</id>
+
+    <entry>
+        <title>JATS XML</title>
+        <author>
+            <name>Mathias Cimelli</name>
+        </author>
+        <link href="https://mathiascimelli.github.io/gh-pages/cimera-lab.html"/>
+        <id>https://mathiascimelli.github.io/gh-pages/cimera-lab.html</id>
+
+        <updated>2022-10-26T14:45:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mathiascimelli.github.io/gh-pages/media/posts/1/abstract-1278017_1280.jpg" alt="" />
+                    Introducing to JATS XML JATS is the abbreviation of Journal Article Tag Suite It is in fact an XML that is used, to describe the scientific literature, published online You really have to see it as a technical standard, that serves as a structure /&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mathiascimelli.github.io/gh-pages/media/posts/1/abstract-1278017_1280.jpg" alt="" />
+                <h2>Introducing to JATS XML</h2>
+<p>JATS is the abbreviation of Journal Article Tag Suite</p>
+<p>It is in fact an XML that is used, to describe the scientific literature, published online</p>
+<p>You really have to see it as a technical standard, that serves as a structure / or foundation for online publishing</p>
+<p>Who Basically allows you to describe, the textual and graphical content, of journal articles</p>
+<p>It should be noted, that JATS is widely used by big names such as Elsevier or Springer</p>
+<h3>Minimum structure of an article :</h3>
+<figure class="post__image"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/structure.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/structure-2xl.png 1600w"  alt="minimum_structure" width="1090" height="343"></figure>
+<h4>front : </h4>
+<p>contains the metadata of the article such as title, information concerning the journal, the publication date and number, copyright (everything related to the metadata)</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/front.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/front-2xl.png 1600w"  alt="" width="596" height="479"></figure>
+<h4>Body :</h4>
+<p>he contains content of the article (everything related to the article itself)</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/body.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/body-2xl.png 1600w"  alt="" width="621" height="244"></figure>
+<h4>back :</h4>
+<p>contains additional information such as a glossary, an appendix or the references of the article</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/footer.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/footer-2xl.png 1600w"  alt="" width="621" height="407"></figure>
+<h3>Benefits</h3>
+<figure class="post__image"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/benefits.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/benefits-2xl.png 1600w"  alt="" width="1248" height="437"></figure>
+<p>Gain visibility thanks to the indexing, that will be done on the entire article</p>
+<p>The structure of the metadata is enriched with tags made, precisely for the publication</p>
+<p>It will allow a more efficient and accurate, transmission of documents, to other environments</p>
+<p>You should know too that some journal indexers, like pubMed require XML as input (and jats would be perfect for that use)</p>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://mathiascimelli.github.io/gh-pages/media/posts/1/website.png" sizes="100vw" srcset="https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-xs.png 300w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-sm.png 480w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-md.png 768w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-lg.png 1024w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-xl.png 1360w ,https://mathiascimelli.github.io/gh-pages/media/posts/1/responsive/website-2xl.png 1600w"  alt="" width="324" height="346"></figure>
+<p> </p>
+<p> </p>
+<p>In addition it gives a more attractive reading interface, with the full text presentation,</p>
+<p>This guarantees a more important time on the website, and at the same time, improves his statistics</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
