@@ -773,6 +773,10 @@ textarea {
   max-height: calc(3.9666666667rem + 1vw);
   width: auto;
 }
+header h1{
+  display:inline-block;
+  margin-top : 20px;
+}
 
 .search {
   -webkit-box-ordinal-group: 3;
